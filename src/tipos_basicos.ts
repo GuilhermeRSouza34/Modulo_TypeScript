@@ -18,4 +18,4 @@ let dadosDaAPI: any;
 dadosDaAPI = 10;
 dadosDaAPI = true;
 dadosDaAPI = [1,2,3];
-dadosDaAPI = 'String';
+dadosDaAPI = 'String'
